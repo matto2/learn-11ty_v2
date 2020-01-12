@@ -2,6 +2,6 @@
 title: 3rd-page
 ---
 # {{title}}
-![Party corgis!image](images/leroy-bellet-behind-the-lens-1.jpg)
+![Party corgis!image](../img/GoPro_News_ISD2018_JOB.jpg)
 
 yay!
