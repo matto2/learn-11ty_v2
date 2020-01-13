@@ -9,10 +9,5 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("css/fonts");
   
     eleventyConfig.setTemplateFormats("html,liquid,njk,md,jpg,png,css");
- 
-  return {
-    
-    templateFormats: ["njk", "md", "jpg"],
-  
-  };
+
   
