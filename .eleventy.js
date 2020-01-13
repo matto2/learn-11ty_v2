@@ -8,5 +8,5 @@ module.exports = function(eleventyConfig) {
     // If you use a subdirectory, it’ll copy using the same directory structure.
     eleventyConfig.addPassthroughCopy("css/fonts");
   
-    eleventyConfig.setTemplateFormats("html,liquid,njk,md,jpg,png,css");
+    // eleventyConfig.setTemplateFormats("html,liquid,njk,md,jpg,png,css");
 }
