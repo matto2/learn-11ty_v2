@@ -6,6 +6,9 @@
     </header>
 <main>
 {% if title %}<h1>{{title}}</h1>{% endif %}
+{%- if dog %}
+<img src = "{{dog}}" alt = "a good dog">
+{%- endif %}
     {{content}}
 </main>
 </body>
