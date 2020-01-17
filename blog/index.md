@@ -1,6 +1,8 @@
 ---
 layout: layout.liquid
 title: This should work
+permalink: /
+tags:
 ---
 
 
