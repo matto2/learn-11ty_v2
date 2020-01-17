@@ -1,6 +1,7 @@
 ---
 title: 3rd-page
 layout: layout.liquid
+tags: post
 ---
 ![Party corgis!image](../img/jeremyflores17.jpg)
 

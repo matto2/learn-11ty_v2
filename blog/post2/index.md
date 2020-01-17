@@ -1,5 +1,7 @@
 ---
 title: A wiggle of Corgis
+tags: post
+layout: layout.liquid
 ---   
 
 # Hey2
