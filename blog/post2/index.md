@@ -7,4 +7,4 @@ layout: layout.liquid
 # Hey2
 whassup??~~~~~~~~~~~
 
-![Part corgis!](images/surf.jpg)
+![Party corgis!](../../img/surf.jpg)
