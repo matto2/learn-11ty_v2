@@ -19,7 +19,7 @@
   "homepage": "https://github.com/matto2/learn-11ty_v2#readme",
   "dependencies": {
     "@11ty/eleventy": "^0.10.0",
-    "axios": "^0.19.1"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "node-fetch": "^2.6.0"
